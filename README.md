@@ -1,5 +1,3 @@
-# banking-system-c-algorithms
-
 # Banking System in C - Academic Project
 
 Este projeto foi desenvolvido como parte da disciplina de **Algoritmos** na faculdade. Trata-se de um sistema simples de gerenciamento bancário implementado em linguagem C, utilizando estruturas, controle condicional, loops e manipulação de dados em memória.
